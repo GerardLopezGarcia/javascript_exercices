@@ -102,3 +102,8 @@ button:hover {
     margin-bottom: 32px;
 
 }
+canvas {
+    border: 1px solid rgb(115, 81, 251);;
+    width: 560px;
+    height: 360px;
+  }
